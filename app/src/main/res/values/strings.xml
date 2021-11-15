@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BIR</string>
+
+    <string-array name="period_arrays">
+        <item>Monthly</item>
+        <item>Semi-Monthly</item>
+    </string-array>
+
+    <string-array name="status_arrays">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Single with 1 dependent</item>
+        <item>Single with 2 dependent</item>
+        <item>Single with 3 dependent</item>
+        <item>Single with 4 dependent</item>
+        <item>Married with 1 dependent</item>
+        <item>Married with 2 dependent</item>
+        <item>Married with 3 dependent</item>
+        <item>Married with 4 dependent</item>
+    </string-array>
+</resources>
